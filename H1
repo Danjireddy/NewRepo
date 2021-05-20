@@ -1,0 +1,15 @@
+git init
+git config --list
+git config --global user.name "anjireddy"
+git config --global user.email "danjireddy4a4@gmail.com"
+git status
+untracker files -- red colour -- workspace
+changed to be commited -- red colour -- staging / indexing system
+git log
+git add .
+git commit -m "label" filename
+git log
+git reset --soft cid (previous cid)
+git reset HEAD filename
+git reset --mixed cid (previous cid)
+git reset --hard cid (previous cid)
