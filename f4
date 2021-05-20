@@ -1,0 +1,7 @@
+git init
+git config --list
+git config --global user.name "anjireddy"
+git config --global user.email "danjireddy4a4@gmail.com"
+
+
+
