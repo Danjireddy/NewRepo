@@ -13,3 +13,4 @@ git reset --soft cid (previous cid)
 git reset HEAD filename
 git reset --mixed cid (previous cid)
 git reset --hard cid (previous cid)
+git
